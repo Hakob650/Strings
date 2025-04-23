@@ -1,4 +1,4 @@
-#include <stdio.hi
+#include <stdio.h>
 #include <string.h>
 int isLetter(char c){
     return ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z'));
